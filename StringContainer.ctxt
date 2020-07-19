@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=StringContainer
+comment1.params=
+comment1.target=StringContainer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StringContainer\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ run()
+comment4.params=x
+comment4.target=java.util.ArrayList\ addToEnd(java.lang.String)
+comment4.text=\r\n\ addToEnd\ method\ adds\ new\ string\ to\ the\ end\ of\ the\ array\r\n\r\n\ @param\ String\ x\r\n\ @return\ \ \ \ arr\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ insertionSort()
+comment5.text=\r\n\ insertionSort\ method\ aplhabetically\ sorts\ the\ array\ of\ Strings\r\n\r\n\ @return\ \ \ \ arr\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ bubbleSort()
+comment6.text=\r\n\ bubbleSort\ method\ aplhabetically\ sorts\ the\ array\ of\ Strings\r\n\r\n\ @return\ \ \ \ arr\r\n
+comment7.params=y
+comment7.target=int\ linearSearch(java.lang.String)
+comment7.text=\r\n\ linearSearch\ method\ runs\ through\ the\ array\ checkng\ to\ see\ if\ \r\n\ a\ particular\ String\ \r\n\ @param\ String\ y\ \r\n\ @return\ index\r\n
+comment8.params=y
+comment8.target=int\ binarySearch(java.lang.String)
+comment8.text=\r\n\ binarySearch\ method\ runs\ through\ the\ array\ checkng\ to\ see\ if\ \r\n\ a\ particular\ String\ \r\n\ @param\ String\ y\ \r\n\ @return\ index\r\n
+comment9.params=
+comment9.target=java.lang.String[]\ returnArray()
+numComments=10

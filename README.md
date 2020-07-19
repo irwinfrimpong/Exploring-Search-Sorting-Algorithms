@@ -1,2 +1,2 @@
-# Exploring Search/Sorting Algorithms
+# Exploring-Searching/Sorting-Algorithms
  
